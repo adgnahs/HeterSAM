@@ -122,8 +122,3 @@ Please cite if this repository helps your research (placeholder; update with pap
   year    = {2025}
 }
 ```
-
-## Acknowledgements
-
-* [Segment Anything Model (SAM)](https://github.com/facebookresearch/segment-anything)
-* Related inspiration: AutoSAM and other prompt-free SAM variants.
