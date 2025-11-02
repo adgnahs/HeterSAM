@@ -117,7 +117,7 @@ Please cite if this repository helps your research (placeholder; update with pap
 ```bibtex
 @article{2025hetersam,
   title   = {HeterSAM: Prompt-Free Heterogeneous Fusion for Medical Image Segmentation},
-  author  = {Your Name and Coauthors},
+  author  = {Name and Coauthors},
   journal = {TBD},
   year    = {2025}
 }
