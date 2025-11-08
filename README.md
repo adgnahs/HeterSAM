@@ -124,15 +124,16 @@ HeterSAM/
 * For limited GPU memory: prefer ViT-B + AMP (`--amp`) + gradient accumulation (`--grad_accum`).
 * Post-processing (e.g., CRF) and input sizes can be set per dataset in `configs/`.
 
-## Citation
+## How to Citation
 
-Please cite if this repository helps your research (placeholder; update with paper):
+Please cite if this repository helps your research :
 
+**(A) Manuscript (submitted to The Visual Computer) **
 ```bibtex
-@article{2025hetersam,
-  title   = {HeterSAM: Prompt-Free Heterogeneous Fusion for Medical Image Segmentation},
-  author  = {Name and Coauthors},
-  journal = {TBD},
+@article{HeterSAM_TVC_2025_submitted,
+  title   = {Enhancing Medical Image Segmentation with Heterogeneous Representation Alignment and Deformable Attention},
+  author  = {<Your Name> and <Coauthors>},
+  journal = {The Visual Computer},
+  note    = {submitted},
   year    = {2025}
 }
-```
