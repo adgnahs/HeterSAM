@@ -35,6 +35,9 @@ Example datasets used in our experiments:
 
 
 * [polyp](https://pan.baidu.com/s/1o9LE4H55f8MtRWEw_pP2FQ?pwd=2wjn)
+* [ISIC2018](https://pan.baidu.com/s/1wXmd-mfuw3eGnpBLzFnzRg?pwd=n9m8)
+* [Verse2020](https://pan.baidu.com/s/1A_8YjO8kYm8mq1mTe7V4ig?pwd=nedu)
+* [Spine1K](https://pan.baidu.com/s/1gv7pn-FMwGdGf3WLRLJydg?pwd=e99v)
 
 > You may also extend to ISIC 2018, PH2, Kvasir-SEG, ClinicDB, ColonDB, ETIS, Spine1K, VerSe2020, etc.
 
