@@ -130,7 +130,7 @@ HeterSAM/
 
 Please cite if this repository helps your research :
 
-**(A) Manuscript (submitted to The Visual Computer) **
+**(A) Manuscript (submitted to The Visual Computer)**
 ```bibtex
 @article{HeterSAM_TVC_2025_submitted,
   title   = {Enhancing Medical Image Segmentation with Heterogeneous Representation Alignment and Deformable Attention},
