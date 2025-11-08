@@ -19,8 +19,8 @@ Prompt-Free Heterogeneous Fusion for Medical Image Segmentation
 
 Example datasets used in our experiments:
 
-* [monu](https://drive.google.com/drive/folders/1bzyHsDWhjhiwzpx_zJ5dpMG3-5F-nhT4?usp=drive_link)
-* [polyp](https://drive.google.com/drive/folders/1S11HsauwKO206CPzrGBnTid-nbQMhbZz?usp=drive_link)
+
+* [polyp](https://pan.baidu.com/s/1o9LE4H55f8MtRWEw_pP2FQ?pwd=2wjn)
 
 > You may also extend to ISIC 2018, PH2, Kvasir-SEG, ClinicDB, ColonDB, ETIS, Spine1K, VerSe2020, etc.
 
