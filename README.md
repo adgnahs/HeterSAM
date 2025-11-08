@@ -13,6 +13,20 @@ Prompt-Free Heterogeneous Fusion for Medical Image Segmentation
 * **Frozen SAM Backbone:** Stable transfer; train only prompt/fusion branches.
 * **Low-latency path:** Optional lightweight decoder for near-lossless speedups.
 
+## Relation to the Manuscript
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17548104.svg)](https://doi.org/10.5281/zenodo.17548104)
+
+This repository contains the **official implementation directly associated** with our manuscript submitted to *The Visual Computer*:
+
+**Enhancing Medical Image Segmentation with Heterogeneous Representation Alignment and Deformable Attention**  
+ Submission ID ：**f8cdd24e-a6aa-431f-9a13-bde323a6ab9a**
+
+We release the code and permanent artifacts to support transparency and reproducibility.  
+Please **cite the manuscript  and the Zenodo DOI below** if you use this code or its derivatives.
+
+- GitHub: https://github.com/adgnahs/HeterSAM  
+- Zenodo DOI: https://doi.org/10.5281/zenodo.17548104
 
 
 ## Datasets
