@@ -46,7 +46,7 @@ Example datasets used in our experiments:
 * [SAM ViT-L (large)](https://drive.google.com/file/d/16AhGjaVXrlheeXte8rvS2g2ZstWye3Xx/view?usp=drive_link)
 * [SAM ViT-H (huge)](https://drive.google.com/file/d/1tFYGukHxUCbCG3wPtuydO-lYakgpSYDd/view?usp=drive_link)
 
-Place them under `checkpoints/` or pass via `--sam_ckpt`.
+Place them under `cp/`.
 
 ## Usage
 
