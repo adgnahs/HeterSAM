@@ -5,9 +5,7 @@ import torch.nn as nn
 from tqdm import tqdm
 import os
 import numpy as np
-from models.model_single import ModelEmb
-from dataset.glas import get_glas_dataset
-from dataset.MoNuBrain import get_monu_dataset
+from models_swin.model_single import ModelEmb
 from dataset.polyp import get_polyp_dataset, get_tests_polyp_dataset
 from segment_anything import SamPredictor, sam_model_registry, SamAutomaticMaskGenerator
 from segment_anything.utils.transforms import ResizeLongestSide
@@ -287,4 +285,5 @@ if __name__ == '__main__':
         'gpu_id': 0,
     }
     main(args=args, sam_args=sam_args)
+
 
